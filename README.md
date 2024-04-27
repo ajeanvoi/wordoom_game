@@ -12,3 +12,4 @@ Attendez-vous donc à découvrir de nombreux mots inconnus ou bien juste vous re
 
 ### Divers
 Ce jeu est également disponible sur le PlayStore, n'hésitez pas à me soutenir en le téléchargeant !
+[Lien vers le PlayStore](https://play.google.com/store/apps/details?id=com.AkazGame.Wordoom&hl=fr&gl=US)
